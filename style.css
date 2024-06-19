@@ -8,9 +8,9 @@ Body {background-color: rgb(133, 109, 74);
     font-style: oblique;
     border-style: dashed;
     border-color: bisque;
-    margin-top: 7px;
+    margin-top: 7px;}
     .part2 {border-style: groove;
-    font-style: initial;}
+    font-style: initial;
 }
 }
 .part1 {border-style: groove;
