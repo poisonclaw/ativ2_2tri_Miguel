@@ -6,6 +6,12 @@ Body {background-color: rgb(133, 109, 74);
     .part1 {color: rgb(88, 45, 37);
     font-size: 150%;
     font-style: oblique;
+    border-style: dashed;
+    border-color: bisque;
+    margin-top: 7px;
 }
 }
+.part1 {border-style: groove;
+border-color: gainsboro;
+margin: 6px;}
 
