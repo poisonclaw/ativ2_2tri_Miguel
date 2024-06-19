@@ -11,6 +11,8 @@ Body {background-color: rgb(133, 109, 74);
     margin-top: 7px;}
     .part2 {border-style: groove;
     font-style: initial;
+    border-color:blueviolet;
+    background-color:blanchedalmond;
 }
 }
 .part1 {border-style: groove;
