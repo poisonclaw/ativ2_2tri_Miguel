@@ -9,9 +9,15 @@ Body {background-color: rgb(133, 109, 74);
     border-style: dashed;
     border-color: bisque;
     margin-top: 7px;
+    .part2 {border-style: groove;
+    font-style: initial;}
 }
 }
 .part1 {border-style: groove;
 border-color: gainsboro;
-margin: 6px;}
+margin: 6px;
+font-style: italic;
+}
+.part2 {font-style: oblique;
+}
 
